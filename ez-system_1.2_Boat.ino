@@ -14,8 +14,8 @@ const char* ssid = "";
 const char* password = "";
 const char* host = "StbdFan";
 const char* MQ_client = "StbdFan";       // your MQTT Client ID
-const char* MQ_user = "mosquitto";       // your MQTT password
-const char* MQ_pass = "jram7757";       // your network password
+const char* MQ_user = "";       // your MQTT password
+const char* MQ_pass = "";       // your network password
 char server[]="192.168.2.10";
 
 int inPin = 0;         // the number of the input pin
