@@ -10,8 +10,8 @@
 //#include <Adafruit_PWMServoDriver.h>
 
 const char* vers = "1.2";
-const char* ssid = "agboat";
-const char* password = "jram7757";
+const char* ssid = "";
+const char* password = "";
 const char* host = "StbdFan";
 const char* MQ_client = "StbdFan";       // your MQTT Client ID
 const char* MQ_user = "mosquitto";       // your MQTT password
